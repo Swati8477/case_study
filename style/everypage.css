@@ -1,0 +1,215 @@
+
+.right{
+  float:right;
+  color: white;
+
+  bottom: 50px;
+  padding-right: 20px;
+  padding-top: 30px;
+
+}
+.right-st{
+  float:right;
+  font-weight: bold;
+  color:red;
+  padding-right: 30px;
+
+  padding-top: 60px;
+  background-color: #4682B4;
+}
+.left{
+  float:left;
+  color:white;
+  padding-left: 30px;
+  
+
+
+}
+
+
+.logo {
+    height: 50px;
+    width: 50px;
+    padding: 3px;
+    margin-left: 25px;
+}
+
+#Status{
+  color:green;
+  
+}
+
+.hed{
+  background-color: #315496;
+  padding-bottom: 100px;
+  
+}
+.foot{
+  position: absolute;
+  background-color: grey;
+  bottom: 0;
+  width: 100%;
+  height: 100px;
+}
+tr{
+  padding-left: 3px;
+  margin-left: 20px;
+
+}
+#cust-menu{
+  padding-right: 30px;
+  padding-top: 30px;
+}
+#cart{
+  padding-right: 10px;
+  padding-top: 30px;
+}
+table{
+  
+  grid-column-gap: 50px;
+
+
+}
+img{
+  padding-top: 25px;
+}
+
+
+
+.center{
+  text-align: left;
+  padding-left: 300px;
+  
+}
+.center-admin{
+  text-align: left;
+  padding-left: 300px;
+  grid-column-gap: 50px;
+
+}
+
+table{
+  text-align: left;
+}
+
+td{
+  text-align:center;
+  padding-right: 30px;
+}
+ .nameAdmin{
+  padding-right: 150px;
+  text-align: left;
+  /* padding-left: 00px; */
+ }
+
+.priceAdmin{
+  padding-right: 30px;
+text-align: right;
+}
+
+/* .namePrice{
+  padding-right: 10px;
+
+}
+.namePrice{
+  padding-right: 10px;
+
+} */
+.heading-admin{
+  text-align: left;
+  /* padding-left: 30%; */
+ 
+  /* padding-left: 100px; */
+}
+.heading{
+  text-align: left;
+  /* padding-left: 30%; */
+ 
+  /* padding-left: 60px; */
+}
+
+.green{
+  color:#07fc03;
+  text-align: left;
+  /* text-align: center; */
+  /* padding-left: 400px; */
+}
+.green-cust{
+  color:#07fc03;
+  padding-left: 270px;
+  /* text-align: center; */
+  /* text-align: center; */
+  /* padding-left: 400px; */
+}
+.green-cart{
+  color:#07fc03;
+  padding-left: 270px;
+  /* text-align: center; */
+  /* text-align: center; */
+  /* padding-left: 400px; */
+}
+.stu{
+  color:#07fc03;
+  text-align: left;
+}
+
+#blue{
+  color:blue;
+}
+
+#name{
+ 
+  width: 1000px;
+}
+#price{
+ 
+  /* float: left; */
+}
+#active{
+  font-size: 20px;
+  /* float: left; */
+}
+#myDate{
+  font-size: 20px;
+  /* float: left; */
+}
+#cat{
+  
+}
+#freeD{
+  
+  width: 30px;
+  height: 30px;
+}
+#save{
+  
+  width: 150px;
+  height: 50px;
+  font-weight: bold;
+  background: #315496;
+  color: white;
+}
+.priceDiv{
+  float: left;
+
+}
+.activeDiv{
+  float: left;
+  padding-left: 70px;
+}
+.myDateDiv{
+  float: left;
+  padding-left: 70px;
+}
+.catDiv{
+  float: left;
+  padding-left: 70px;
+}
+.wholeInput:after{
+  content: "";
+  display: table;
+  clear:both;
+}
+form{
+  
+}
